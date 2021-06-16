@@ -1,0 +1,6 @@
+[submodule "tinydfu-bootloader"]
+	path = tinydfu-bootloader
+	url = https://github.com/oskirby/tinydfu-bootloader
+[submodule "fpga-usb-pd"]
+	path = fpga-usb-pd
+	url = https://github.com/LoialOtter/FPGA-USB-PD.git
