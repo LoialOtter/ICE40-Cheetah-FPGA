@@ -4,3 +4,6 @@
 [submodule "fpga-usb-pd"]
 	path = fpga-usb-pd
 	url = https://github.com/LoialOtter/FPGA-USB-PD.git
+[submodule "RISCy-ICE"]
+	path = RISCy-ICE
+	url = https://github.com/LoialOtter/RISCy-ICE.git
